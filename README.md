@@ -1,2 +1,1 @@
-# appsense-sdk-android
-AppSense Android SDK
+# AppSense Android SDK
